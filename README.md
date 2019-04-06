@@ -7,7 +7,7 @@ It uses **C++** features:
  * Move Constructor and Move assignment operators (C++ 11 onwards)
 
  Highlights:
-  * **Algorithm**: The algorithm gererate random points for all types of polygon. 
+  * **Algorithm**: The algorithm generate random points for all types of polygon. 
   * **Expression Templates**: Reduce the run time substantially by creating expression templates and avoiding temporary memory allocation and virtual function calls
    
 ### How to use this header: 
