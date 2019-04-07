@@ -1,5 +1,5 @@
 #include <iostream>
-#include "barycentric_random_points.hpp"
+#include "../includes/barycentric_random_points.hpp"
 #include<algorithm>
 
 int main(){
