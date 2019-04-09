@@ -15,7 +15,6 @@ int main()
     typedef model::d2::point_xy<double> point_xy;
     
 
-    // Create a polygon object and assign the points to it.
     RandomPoint<double> random_point_obj(4); 
 
     // A convex polygon 
